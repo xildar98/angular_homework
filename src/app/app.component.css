@@ -1,0 +1,24 @@
+head{
+    title : "My hw"
+}
+body 
+    { 
+    font: 62.5%/1.5  "Lucida Grande", "Lucida Sans", Tahoma, Verdana, sans-serif; 
+    color: #000000;     
+    text-align:center; 
+} 
+div {
+    text-align: center;
+    border: 2px dashed #f69c55;
+    --clr_bg: white;
+}
+
+span
+    {
+    padding: 3px; 
+    display: block;
+
+    font: 62.5%/1.5  "Lucida Grande", "Lucida Sans", Tahoma, Verdana, sans-serif; 
+    --clr_text: green;
+    border:5px;
+}
